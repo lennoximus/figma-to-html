@@ -1,0 +1,20 @@
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore Byebug command history file.
+.byebug_history
+
+# Frontend-specific rules
+node_modules
+npm-debug.log
+npm-debug*
+/dist
+
+# Environment/IDE-specific rules
+.DS_Store
+/.idea/
+.vscode
+/src/.idea/
+/src/docs/
