@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lennoximus/figma-to-html/issues"
   },
-  "homepage": "https://github.com/lennoximus/figma-to-html#readme"
+  "homepage": "https://github.com/lennoximus/figma-to-html#readme",
+  "dependencies": {
+    "eslint": "^5.15.3"
+  }
 }
